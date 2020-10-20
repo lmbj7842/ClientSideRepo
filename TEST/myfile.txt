@@ -1,2 +1,4 @@
 this is a text file.  oh ho, I've made some new changes.
 And another line!  Somebody stop me!
+
+This is a bug fix.
